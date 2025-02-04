@@ -1,4 +1,4 @@
-## Hi there! I'm AlessiaPortaro 👋
+## Hi there! I'm Alessia Portaro 👋
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
