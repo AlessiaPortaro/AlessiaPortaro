@@ -24,11 +24,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Spyder](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Spyder](https://img.shields.io/badge/-Spyder-333333?style=flat&logo=rstudio)
 - 📈 Libraries & Frameworks: &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=adobe-photoshop)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=adobe-indesign)
-  ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=adobe-indesign)
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=adobe-indesign)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=adobe-indesign)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=adobe-indesign)
 
